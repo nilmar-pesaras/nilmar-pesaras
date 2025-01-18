@@ -1,33 +1,43 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nilmar T. Pesaras
-=========================================================================================================================================
+![👋 Hi, my name is Nilmar Pesaras](npesarasheader.png)
 
-Python and Web Developer
-------------------------
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Nilmar Pesaras
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-* 🌍  I'm based in the Philippines.
-* ✉️  You can contact me at [nilmar.pesarast@gmail.com](mailto:nilmar.pesarast@gmail.com)
-* 🧠  I'm learning Python Language
-* ⚡  I do love topics about cognitive psychology
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://www.facebook.com/marlin.mace.90" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/nilmarpesaras" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/npesaras" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-<a href="https://www.github.com/nilmar-pesaras" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/nilmar-pesaras?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
+ **<h4 align="left">I'm on a mission to explore how technology can revolutionize the way we learn. As a tech enthusiast and student leader, I thrive on inspiring and empowering my peers to dive into the exciting world of technology.
 
-### Skills
+I'm constantly seeking out innovative ways to make learning more engaging and impactful through the use of cutting-edge tech tools. Whether it's organizing tech workshops, leading coding clubs, or mentoring fellow students, I'm dedicated to fostering a culture of curiosity and creativity in the realm of technology.</h4>**
 
+**<h3 align="left">Rapid Fire</h3>**
+
+- 🌱 I'm currently learning: **📚 Front-End Web Development and Python**
+
+ **<h3 align="left">Skills</h3>**
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" style="margin-right: 4px"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px">
 </p>
 
+ **<h3 align="left">GitHub Stats</h3>**
 
-### Socials
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=npesaras&theme=omni&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&disable_animations=true" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=npesaras&theme=omni&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&disable_animations=true" alt="GitHub streak Card" />
+</p>
 
-<p align="left"> <a href="https://discord.com/users/nilmarp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/marlin.mace.90" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/nilmar-pesaras" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://nilmarp.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nilmar-pesaras-90b089252" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=npesaras&theme=omni&hide_title=false&layout=normal&langs_count=3&hide_progress=false&card_width=400&disable_animations=true" alt="GitHub top-langs Card" />
+</p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/nilmar-pesaras"><img src="https://github-readme-stats.vercel.app/api?username=nilmar-pesaras&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="nilmar-pesaras's GitHub stats" /></a>
-
-<a href="https://github.com/nilmar-pesaras" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilmar-pesaras&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
