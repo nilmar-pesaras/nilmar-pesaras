@@ -1,4 +1,4 @@
-<-- ![👋 Hi, my name is Nilmar Pesaras](npesarasheader.png) -->
+# ![👋 Hi, my name is Nilmar Pesaras](npesarasheader.png)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
